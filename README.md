@@ -59,7 +59,7 @@
 <p align="left">
 
 
-<a href = "https://fiverr.com/shhovon"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dfiverr&psig=AOvVaw3bImXPu0RC49oVr15wJ69i&ust=1630269117178000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDUjvDH1PICFQAAAAAdAAAAABAJ"/></a>
+<a href = "https://www.seekpng.com/png/full/154-1546512_fiverr-review-fiverr-logo-png.png"/></a>
 <a href = "https://www.instagram.com/shhovon/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
