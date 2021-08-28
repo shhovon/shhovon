@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Shovon Roy</h1>
-<h3 align="center">I'm a Passionate Frontend and WordPress Developer</h3>
+<h3 align="center">A Passionate Frontend and WordPress Developer</h3>
 
 
 ##  About Me
