@@ -2,7 +2,7 @@
 <!--<h3 align="center">A Passionate Frontend and WordPress Developer</h3> -->
 
 
-##  About Me
+#  About Me
 
 <!--
 - 🔭 I’m currently working on **Ajax Projects**
