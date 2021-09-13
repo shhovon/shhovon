@@ -59,7 +59,7 @@ I’m a Frontend and WordPress developer from Bangladesh. I'm currently pursuing
 
 
 
-## Connect with me:
+## Connect with me
 <p align="left">
 
 
