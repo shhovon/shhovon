@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Shovon Roy</h1>
-<h3 align="center">A Passionate Frontend and WordPress Developer</h3>
+<!--<h3 align="center">A Passionate Frontend and WordPress Developer</h3> -->
 
 
 ##  About Me
@@ -18,7 +18,7 @@
 - ⚡ Fun fact **I spend my weekends binge-watching anime**
 -->
 
-I’m a web designer and wordpress developer from Bangladesh. I'm currently pursuing my computer science degree. I spend my days in many different areas of web development from backend programming (PHP, Django/Python) to frontend (HTML, CSS, Javascript, ReactJS), user experience and visual design. You can find all my links on **[Here](https://linktr.ee/shhovon)**  
+I’m a Frontend and WordPress developer from Bangladesh. I'm currently pursuing my computer science degree. I spend my days in many different areas of web development from backend programming (PHP, Django/Python) to frontend (HTML, CSS, Javascript, ReactJS), user experience and visual design. You can find all my links on **[Here](https://linktr.ee/shhovon)**  
 
 ## Languages and Tools:
 
