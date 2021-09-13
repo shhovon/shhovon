@@ -4,6 +4,7 @@
 
 ##  About Me
 
+<!--
 - 🔭 I’m currently working on **Ajax Projects**
 
 - 🌱 I’m currently learning **OpenGL and GLUT Library**
@@ -15,6 +16,9 @@
 - 📫 How to reach me **hireshovon@gmail.com**
 
 - ⚡ Fun fact **I spend my weekends binge-watching anime**
+-->
+
+I’m a web designer and wordpress developer from Bangladesh. I'm currently pursuing my computer science degree. I spend my days in many different areas of web development from backend programming (PHP, Django/Python) to frontend (HTML, CSS, Javascript, PHP), user experience and visual design. You can check my out on **[links](https://linktr.ee/shhovon)**  
 
 ## Languages and Tools:
 
