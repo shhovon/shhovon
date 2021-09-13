@@ -20,7 +20,7 @@
 
 I’m a Frontend and WordPress developer from Bangladesh. I'm currently pursuing my computer science degree. I spend my days in many different areas of web development from backend programming (PHP, Django/Python) to frontend (HTML, CSS, Javascript, ReactJS), user experience and visual design. You can find all my links on **[Here](https://linktr.ee/shhovon)**  
 
-## Languages and Tools:
+## Languages and Tools
 
 <p align="left"> 
     <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
