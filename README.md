@@ -40,24 +40,24 @@ I’m a Frontend and WordPress developer from Bangladesh. I'm currently pursuing
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/shhovon/github-readme-streak-stats">
         <img title= Get streak stats for your profile at git.io/streak-stats" alt="Shovon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shhovon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+</p> -->
 
-##  My Github Stats
+<!-- ##  My Github Stats
 
   <br/>
     <a href="https://github.com/shhovon/github-readme-stats"><img alt="Shovon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shhovon&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/shhovon/github-readme-stats"><img alt="Shovon Roy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shhovon&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-                                                                                
+                                                                                 -->
  <!-- (https://github-readme-stats.vercel.app/api/top-langs?username=shhovon&show_icons=true&count_private=true&theme=gotham)
   <br/> -->
 
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
 
 
