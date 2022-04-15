@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I spend my weekends binge-watching anime**
 -->
 
-I’m a Frontend and WordPress developer from Bangladesh. I'm currently pursuing my computer science degree. I spend my days in many different areas of web development from backend programming (PHP, Django/Python) to frontend (HTML, CSS, Javascript, ReactJS), user experience and visual design. You can find all my links on **[Here](https://linktr.ee/shhovon)** 
+I’m a Frontend and WordPress developer from Bangladesh. I'm currently pursuing my computer science degree. I spend my days in many different areas of web development from backend programming (PHP) to frontend (HTML, CSS, Javascript), user experience and visual design. You can find all my links on **[Here](https://linktr.ee/shhovon)** 
 <!-- &ensp;  <img src="https://github.com/shhovon/shhovon/blob/main/images/tenor.gif" width="50px">    -->
 
 <!-- ## Languages and Tools
